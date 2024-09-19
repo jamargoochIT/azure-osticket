@@ -3,7 +3,7 @@
 </p>
 
 <h1>Creating & Configuring a Azure Virtual Machine for osTicket</h1>
-This tutorial goes over the process for setting up a virtual machine in Azure with the intent of install osTicket.<br /><br><br><br><br>
+This tutorial goes over the process for setting up a virtual machine in Azure with the intent of installing osTicket.<br /><br><br><br><br>
 
 
 We’re going to go through setting up a Virtual Machine in Azure.
