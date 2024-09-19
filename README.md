@@ -6,8 +6,8 @@
 This tutorial goes over the process for setting up a virtual machine in Azure with the intent of installing osTicket.<br /><br><br><br><br>
 
 
-We’re going to go through setting up a Virtual Machine in Azure.
-First, we’ll need to create a resource group.
+
+Up first, we’ll need to create a resource group.
 
 ![image](https://github.com/user-attachments/assets/e08f0463-c49e-4484-a743-a41e81af5bc4)<br><br><br><br>
 
