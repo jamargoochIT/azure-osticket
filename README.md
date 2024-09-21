@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>Creating & Configuring a Azure Virtual Machine for osTicket</h1>
+<h1>Creating & Configuring an Azure Virtual Machine for osTicket</h1>
 This tutorial goes over the process for setting up a virtual machine in Azure with the intent of installing osTicket.<br /><br><br><br><br>
 
 
