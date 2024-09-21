@@ -36,7 +36,7 @@ Type virtual machine into the Azure search bar and then click create, then selec
  
 Here, we’re going to setup the virtual machine for osTicket. Here are the necessary fields we need to fill out:
 - Resource Group – make sure this is the same resource group we created.
-- Virtual Machine Name – You can name it whatever you want but I’ll use vmosticket-1.
+- Virtual Machine Name – You can name it whatever you want, but I’ll use vmosticket-1.
 - Region – Make sure it’s the same as what we selected for our resource group.
 - Image – We’ll want to select Windows 10 Pro, version 22H2 – x64 Gen2<br><br>
 ![image](https://github.com/user-attachments/assets/7958cb30-443a-45f9-84e9-b6a28897c768)
@@ -51,9 +51,9 @@ Now we’ll scroll down to the next section to the remaining fields we need to f
 
 
 
-Then at the bottom of the screen we need to click the box that says:
- ![image](https://github.com/user-attachments/assets/28555a54-f554-408e-ba4f-a2feb4d70743)
-After we’ve done that click Review + Create.<br><br><br><br>
+Then, at the bottom of the screen, we need to click the box that says:
+![image](https://github.com/user-attachments/assets/28555a54-f554-408e-ba4f-a2feb4d70743)
+After we’ve done that, click Review + Create.<br><br><br><br>
 
 If you get this error message during validation:
 ![image](https://github.com/user-attachments/assets/8d543317-061e-4819-9e14-c2df8cd891bb)<br><br>
@@ -63,12 +63,12 @@ We’ll need to go back to the basics tab (we can click on the basics tab that�
 
 
 If it’s already checked, uncheck it and check it again.
-Once, we’ve done that, we can simply press review + create.<br><br><br><br>
+Once we’ve done that, we can simply press review + create.<br><br><br><br>
 
 
-After the validation completes click create.
+After the validation completes, click create.
 ![image](https://github.com/user-attachments/assets/c8edf459-ac28-4c9f-aac7-648c8aa43137)
-After the VM has been created click on Go to resources.<br><br><br><br>
+After the VM has been created, click on Go to resources.<br><br><br><br>
 
  
 
@@ -79,7 +79,7 @@ In the Windows search bar,<br>
 ![image](https://github.com/user-attachments/assets/d450847a-6d72-4ef6-aee1-bb4a3e535615)
 
 
-type in Remote Desktop and open the app. In the computer field, type in the public IP address for the VM we just created. 
+Type in Remote Desktop and open the app. In the computer field, type in the public IP address for the VM we just created. 
 ![image](https://github.com/user-attachments/assets/370a1d52-c5ff-4e0c-9e86-7e9ef5efc6a9)
 ![image](https://github.com/user-attachments/assets/a0a329cd-d4e2-40cc-9913-ed134783013c)<br><br><br><br>
  
@@ -87,7 +87,7 @@ type in Remote Desktop and open the app. In the computer field, type in the publ
 
  
 
-To Log in, we’ll need to use the credentials we created here:
+To log in, we’ll need to use the credentials we created here:
 ![image](https://github.com/user-attachments/assets/2d923395-9209-4e99-aa84-9600ed4cedfc)<br><br><br><br>
  
 
@@ -96,14 +96,14 @@ After our credentials have been accepted, we’ll get the following message:
 ![image](https://github.com/user-attachments/assets/30fb44e6-ea73-4488-9080-fcabe46f5814)<br><br><br><br>
  
 
-As it says at the top, it’s telling us the connection to the computer may be unsafe, but it’s not since we created the VM we’re about to connect to.
+As it says at the top, it’s telling us the connection to the computer may be unsafe, but it’s not since we created, the VM we’re about to connect to.
 We can check the box at the bottom to not be asked this again. Then we can click Yes.<br><br>
 
-And that's it, we should be logged into the virtual machine and ready to install osTicket.<br><br><br><br>
+And that's it; we should be logged into the virtual machine and ready to install osTicket.<br><br><br><br>
 
-If we ever forget our username or password, go to main page where it lists all of the virtual machines we’ve created and click on the name of the virtual machine you’ve forgotten the password or username to. After that, click Help-> Reset Password and on the right, it will display our username for the VM and we can reset our password.
+If we ever forget our username or password, go to the main page where it lists all of the virtual machines we’ve created and click on the name of the virtual machine you’ve forgotten the password or username to. After that, click Help->Reset Password, and on the right, it will display our username for the VM and we can reset our password.
 ![image](https://github.com/user-attachments/assets/352a4ff3-39c3-4f90-bc3a-eea5d08e8291)<br><br>
 
-And that's it for now. See ya in the next one!
+And that's it for now. See you in the next one!
 
  
