@@ -42,7 +42,7 @@ Here, we’re going to setup the virtual machine for osTicket. Here are the nece
 ![image](https://github.com/user-attachments/assets/7958cb30-443a-45f9-84e9-b6a28897c768)
 
 Now we’ll scroll down to the next section to the remaining fields we need to fill out:
-- Size – Here, we’ll choose Standard_E2s_v3 – 2 vcpus, 16GiB memory. This is basically going to affect the speed of the virtual machine, having 2 virtual CPUs with 16 Gigabytes of memory will be fine for what we’re going to need it for.
+- Size – Here, we’ll choose Standard_E2s_v3 – 2 vcpus, 16GiB memory. This is basically going to affect the speed of the virtual machine; having 2 virtual CPUs with 16 Gigabytes of memory will be fine for what we’re going to need it for.
 - Username – You can type what you want here and for the passwords. 
 - Password
 - Confirm Password
@@ -66,7 +66,7 @@ If it’s already checked, uncheck it and check it again.
 Once we’ve done that, we can simply press review + create.<br><br><br><br>
 
 
-After the validation completes, click create.
+After the validation completes, click Create.
 ![image](https://github.com/user-attachments/assets/c8edf459-ac28-4c9f-aac7-648c8aa43137)
 After the VM has been created, click on Go to resources.<br><br><br><br>
 
@@ -101,7 +101,7 @@ We can check the box at the bottom to not be asked this again. Then we can click
 
 And that's it; we should be logged into the virtual machine and ready to install osTicket.<br><br><br><br>
 
-If we ever forget our username or password, go to the main page where it lists all of the virtual machines we’ve created and click on the name of the virtual machine you’ve forgotten the password or username to. After that, click Help->Reset Password, and on the right, it will display our username for the VM and we can reset our password.
+If we ever forget our username or password, go to the main page where it lists all of the virtual machines we’ve created and click on the name of the virtual machine you’ve forgotten the password or username to. After that, click Help->Reset Password, and on the right, it will display our username for the VM, and we can reset our password.
 ![image](https://github.com/user-attachments/assets/352a4ff3-39c3-4f90-bc3a-eea5d08e8291)<br><br>
 
 And that's it for now. See you in the next one!
